@@ -1,0 +1,103 @@
+.App{
+    position: relative;
+    width: 360px;
+    height: 640px;
+    background: #3A3C48;
+}
+.Header{
+    position: absolute;
+    width: 360px;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+    background: #726E76;
+}
+.Chat{
+position: absolute;
+width: 75px;
+height: 42px;
+left: 143px;
+top: 29px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+color: #E5E5E5;
+}
+.Conct{
+    position: absolute;
+    width: 108px;
+    height: 27px;
+    left: 18px;
+    top: 110px;
+    border:none;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+label{
+position: absolute;
+width: 67px;
+height: 21px;
+left: 18px;
+top: 172px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+color: #C4C4C4;
+
+}
+.Addr{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 121px;
+    top: 165px;
+    border:none;
+    outline:none;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+textarea{
+position: absolute;
+left: 121px;
+top: 264px;
+outline:none;
+resize:none;
+height: 35px;
+width:200px;
+min-height:35px;
+background: #C4C4C4;
+border-radius:10px;
+border:none;
+}
+.sub{
+position: absolute;
+width: 72px;
+height: 35px;
+left: 18px;
+top: 264px;
+border:none;
+background: #C4C4C4;
+border-radius: 20px;
+}
+.get{
+    position: absolute;
+    width: 72px;
+    height: 35px;
+    left: 18px;
+    top: 431px;
+    border:none;
+    background: #C4C4C4;
+    border-radius: 20px;  
+}
+.Msg{
+    position: absolute;
+    width: 224px;
+    height: 131px;
+    left: 121px;
+    top: 440px;
+    color: #C4C4C4;
+}
