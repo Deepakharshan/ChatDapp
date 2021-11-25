@@ -1,6 +1,6 @@
 #ChatDapp
 
-#I created a simple ChatDapp. Using React.js framework in front-end and smart contract in back-end. 
+#I created a simple ChatDapp. Using React.js framework in front-end and smart contract in back-end. (I'm used Kovan testnet for contract deployement).
 
 #Developers ideas are welcome.
 
