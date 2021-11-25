@@ -1,6 +1,6 @@
 #ChatDapp
 
-#I created a simple ChatDapp. Using React.js framework.
+#I created a simple ChatDapp. Using React.js framework in front-end and smart contract in back-end. 
 
 #Developers ideas are welcome.
 
