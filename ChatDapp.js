@@ -5,7 +5,7 @@ import {ethers} from "ethers"
 
 export default function App(){
 
-  const address = "";
+  const address = "Your contract address";
   const abi = [
 	{
 		"inputs": [],
